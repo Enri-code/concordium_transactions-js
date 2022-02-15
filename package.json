@@ -1,0 +1,19 @@
+{
+  "name": "concordium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enri-code/concordium_transactions-js.git"
+  },
+  "author": "Eric Onyeulo (enri_code)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enri-code/concordium_transactions-js/issues"
+  },
+  "homepage": "https://github.com/Enri-code/concordium_transactions-js#readme"
+}
